@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"/home/gabrielpnascimento/LE-EP-EDOO-1/EP/EP2/B.cpp","tests":[{"id":1794315567030,"input":"8\n0 1 2\n1 1\n1 2\n0 2 3\n1 1\n1 2\n0 2 1\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gabrielpnascimento/LE-EP-EDOO-1/EP/EP2/B.cpp","group":"local","local":true}
