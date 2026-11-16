@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/gabri/LE-EP-EDOO/EP/EP1/A.cpp","tests":[{"id":1794845172938,"input":"This_is_a_[Beiju]_text\n[[]][][]Happy_Birthday_to_Tsinghua_University","output":"BeijuThis_is_a__text\nHappy_Birthday_to_Tsinghua_University"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gabri/LE-EP-EDOO/EP/EP1/A.cpp","group":"local","local":true}
