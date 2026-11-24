@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"/home/gabri/LE-EP-EDOO/LE/LE3/C.cpp","tests":[{"id":1795556256492,"input":"3\n3 xYz Yxz\n3 abc cba\n6 ABCDEF CBAEDF","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gabri/LE-EP-EDOO/LE/LE3/C.cpp","group":"local","local":true}
