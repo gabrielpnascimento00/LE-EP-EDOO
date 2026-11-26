@@ -56,8 +56,8 @@ class BST{
                 return filho;
             }
             No* prx = menor(no->dir);
-            int valor = prx->valor;
-            no->dir = remover(no->dir, valor);
+            no->valor = prx->valor;
+            no->dir = remover(no->dir, no->valor);
         }
         return no;
     }
